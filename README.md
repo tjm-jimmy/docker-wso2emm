@@ -8,7 +8,7 @@ This is a dockerized version of the [wso2emm](http://wso2.com/products/enterpris
 3. ```docker build -t <nameofyourchoice> .```
 ## Run the image
 
-1. ```docker  run -d --name <nameofyourchoice> -p 9433:9433 -p 9763:9773 <containername>```
+1. ```docker  run -d --name <nameofyourchoice> -p 9443:9443 -p 9763:9763 <containername>```
 
 2. Then you can access EMM Admin Console in the following URL
 
