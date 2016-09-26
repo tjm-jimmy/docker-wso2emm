@@ -1,6 +1,7 @@
 # ReadMe
 This is a dockerized version of the [wso2emm](http://wso2.com/products/enterprise-mobility-manager) version 2.0.1
 
+[![](https://images.microbadger.com/badges/image/jmokwena/docker-wso2emm.svg)](https://microbadger.com/images/jmokwena/docker-wso2emm "Get your own image badge on microbadger.com")
 
 ## Building the image
 1. clone the repository.
